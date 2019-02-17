@@ -1,0 +1,3 @@
+﻿  compile_error.cpp
+c:\cs31\project1 compile error\project1 compile error\compile_error.cpp(14): error C2146: syntax error: missing ';' before identifier 'cin'
+c:\cs31\project1 compile error\project1 compile error\compile_error.cpp(28): error C2676: binary '>>': 'std::ostream' does not define this operator or a conversion to a type acceptable to the predefined operator

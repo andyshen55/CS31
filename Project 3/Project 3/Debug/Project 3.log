@@ -1,0 +1,4 @@
+﻿  poll.cpp
+c:\cs31\project 3\project 3\poll.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\cs31\project 3\project 3\poll.cpp(182): warning C4018: '<': signed/unsigned mismatch
+  Project 3.vcxproj -> C:\CS31\Project 3\Debug\Project 3.exe
