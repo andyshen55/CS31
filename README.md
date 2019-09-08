@@ -1,7 +1,7 @@
 # CS31: Introduction to Computer Science I
-Fall 2018 CS 31, Prof. David Smallberg
+### Fall 2018 CS 31, Prof. David Smallberg
 
-Grade Received: A
+#### Grade Received: A
 
 These are my solutions to the prescribed HW/Projects for CS31. The purpose of this repository is to display/backup my work. Please do not try to copy or re-use any of my code.
 
